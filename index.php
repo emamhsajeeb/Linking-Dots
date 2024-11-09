@@ -16,7 +16,7 @@ try {
   if (!$user->_logged_in) {
 
     // page header
-    page_header(__("Welcome to") . ' ' . __($system['system_title']));
+    page_header(__($system['system_title']));
 
     if (!$system['newsfeed_public']) {
 
