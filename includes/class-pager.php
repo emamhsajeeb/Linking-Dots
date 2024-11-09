@@ -3,7 +3,7 @@
 /**
  * class -> pager
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * ajax -> data -> mention
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

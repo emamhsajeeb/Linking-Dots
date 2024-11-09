@@ -3,7 +3,7 @@
 /**
  * ajax -> core -> two factor authentication
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

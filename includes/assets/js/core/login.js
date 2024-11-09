@@ -1,7 +1,7 @@
 /**
  * login js
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * ajax -> core -> forget password reset
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

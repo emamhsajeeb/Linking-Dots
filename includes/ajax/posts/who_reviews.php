@@ -3,7 +3,7 @@
 /**
  * ajax -> posts -> who reviews
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

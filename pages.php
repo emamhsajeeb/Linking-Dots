@@ -3,7 +3,7 @@
 /**
  * pages
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

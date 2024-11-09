@@ -3,7 +3,7 @@
 /**
  * ajax -> posts -> offer
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

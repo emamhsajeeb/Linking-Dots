@@ -3,7 +3,7 @@
 /**
  * webhooks -> verotel
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

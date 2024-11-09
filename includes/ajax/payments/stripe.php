@@ -3,7 +3,7 @@
 /**
  * ajax -> payments -> stripe
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * webhooks -> paypal
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

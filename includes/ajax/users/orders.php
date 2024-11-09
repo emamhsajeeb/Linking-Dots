@@ -3,7 +3,7 @@
 /**
  * ajax -> user -> orders
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

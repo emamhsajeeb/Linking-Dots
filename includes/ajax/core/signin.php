@@ -3,7 +3,7 @@
 /**
  * ajax -> core -> signin
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

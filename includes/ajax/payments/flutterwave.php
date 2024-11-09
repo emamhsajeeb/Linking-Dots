@@ -3,7 +3,7 @@
 /**
  * ajax -> payments -> flutterwave
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

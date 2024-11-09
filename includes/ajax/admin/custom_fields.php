@@ -3,7 +3,7 @@
 /**
  * ajax -> admin -> custom fields
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

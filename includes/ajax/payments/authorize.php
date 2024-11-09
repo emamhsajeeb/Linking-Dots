@@ -3,7 +3,7 @@
 /**
  * ajax -> payments -> Authorize.net
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

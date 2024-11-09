@@ -3,7 +3,7 @@
 /**
  * ajax -> payments -> trial
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

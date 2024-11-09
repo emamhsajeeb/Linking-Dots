@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Sngine\n"
+"Project-Id-Version: LinkingDots\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-25 19:58+0300\n"
 "PO-Revision-Date: 2024-09-25 20:11+0300\n"
@@ -743,7 +743,7 @@ msgid "My Events"
 msgstr "مناسبة"
 
 #: bootstrap.php:85
-msgid "Your session hash has been broken, Please contact Sngine's support!"
+msgid "Your session hash has been broken, Please contact LinkingDots's support!"
 msgstr ""
 "تم كسر تجزئة جلسة العمل الخاصة بك، يرجى الاتصال بفريق الدعم من قائمة الاتصال "
 "في الأسفل !"
@@ -12667,49 +12667,49 @@ msgid "WordPress App Secret"
 msgstr "سر التطبيق Vkontakte"
 
 #: content/themes/default/templates/admin.settings.tpl:2573
-msgid "Sngine"
+msgid "LinkingDots"
 msgstr "سنجن"
 
 #: content/themes/default/templates/admin.settings.tpl:2574
 #, fuzzy
 #| msgid "Turn registration/login via Twitter On and Off"
-msgid "Turn registration/login via other Sngine website On and Off"
+msgid "Turn registration/login via other LinkingDots website On and Off"
 msgstr "السماح بتسجيل الدخول عبر تويتر"
 
 #: content/themes/default/templates/admin.settings.tpl:2586
 #, fuzzy
 #| msgid "Linkedin App ID"
-msgid "Sngine App ID"
+msgid "LinkingDots App ID"
 msgstr "معرف التطبيق Linkedin"
 
 #: content/themes/default/templates/admin.settings.tpl:2599
 #, fuzzy
 #| msgid "Linkedin App Secret"
-msgid "Sngine App Secret"
+msgid "LinkingDots App Secret"
 msgstr "مفتاح سر لينكدين"
 
 #: content/themes/default/templates/admin.settings.tpl:2612
 #, fuzzy
 #| msgid "App Domain"
-msgid "Sngine App Domain"
+msgid "LinkingDots App Domain"
 msgstr "نطاق التطبيق"
 
 #: content/themes/default/templates/admin.settings.tpl:2621
 #, fuzzy
 #| msgid "Website link must start with http:// or https://"
-msgid "Please enter your Sngine App Domain without http:// or https://"
+msgid "Please enter your LinkingDots App Domain without http:// or https://"
 msgstr "يجب أن يبدأ ارتباط الموقع بـ http: // أو https: //"
 
 #: content/themes/default/templates/admin.settings.tpl:2628
 #, fuzzy
 #| msgid "App Name"
-msgid "Sngine App Name"
+msgid "LinkingDots App Name"
 msgstr "إسم التطبيق"
 
 #: content/themes/default/templates/admin.settings.tpl:2641
 #, fuzzy
 #| msgid "Linkedin App ID"
-msgid "Sngine App Icon"
+msgid "LinkingDots App Icon"
 msgstr "معرف التطبيق Linkedin"
 
 #: content/themes/default/templates/admin.settings.tpl:2694
@@ -19726,7 +19726,7 @@ msgstr "إدارة الصفحات"
 
 #: content/themes/default/templates/admin.design.tpl:72
 #, fuzzy
-#| msgid "Sngine"
+#| msgid "LinkingDots"
 msgid "Elengine"
 msgstr "سنجن"
 
@@ -25342,8 +25342,8 @@ msgstr ""
 #~ msgstr "العملات"
 
 #, fuzzy
-#~| msgid "Sngine uses Twemoji Awesome and you can check"
-#~ msgid "Sngine uses Twemoji Amazing and you can check"
+#~| msgid "LinkingDots uses Twemoji Awesome and you can check"
+#~ msgid "LinkingDots uses Twemoji Amazing and you can check"
 #~ msgstr "سنجن يستخدم Twemoji Awesome ويمكنك التحقق من"
 
 #~ msgid "Pattern"

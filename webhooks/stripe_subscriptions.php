@@ -3,7 +3,7 @@
 /**
  * webhooks -> stripe subscriptions webhook
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Sngine\n"
+"Project-Id-Version: LinkingDots\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-25 19:58+0300\n"
 "PO-Revision-Date: 2024-09-25 20:12+0300\n"
@@ -745,7 +745,7 @@ msgid "My Events"
 msgstr "Mes événements"
 
 #: bootstrap.php:85
-msgid "Your session hash has been broken, Please contact Sngine's support!"
+msgid "Your session hash has been broken, Please contact LinkingDots's support!"
 msgstr ""
 "Votre hachage de session a été cassé, veuillez contacter le support d'Ilobuz!"
 
@@ -12676,49 +12676,49 @@ msgid "WordPress App Secret"
 msgstr "Secret de l’application Google"
 
 #: content/themes/default/templates/admin.settings.tpl:2573
-msgid "Sngine"
-msgstr "Sngine"
+msgid "LinkingDots"
+msgstr "LinkingDots"
 
 #: content/themes/default/templates/admin.settings.tpl:2574
 #, fuzzy
 #| msgid "Turn registration/login via Twitter On and Off"
-msgid "Turn registration/login via other Sngine website On and Off"
+msgid "Turn registration/login via other LinkingDots website On and Off"
 msgstr "Tour d'inscription/connexion via Twitter sur et en dehors"
 
 #: content/themes/default/templates/admin.settings.tpl:2586
 #, fuzzy
 #| msgid "Linkedin App ID"
-msgid "Sngine App ID"
+msgid "LinkingDots App ID"
 msgstr "LinkedIn App ID"
 
 #: content/themes/default/templates/admin.settings.tpl:2599
 #, fuzzy
 #| msgid "Linkedin App Secret"
-msgid "Sngine App Secret"
+msgid "LinkingDots App Secret"
 msgstr "LinkedIn App Secret"
 
 #: content/themes/default/templates/admin.settings.tpl:2612
 #, fuzzy
 #| msgid "App Domain"
-msgid "Sngine App Domain"
+msgid "LinkingDots App Domain"
 msgstr "Domaine d’application"
 
 #: content/themes/default/templates/admin.settings.tpl:2621
 #, fuzzy
 #| msgid "Website link must start with http:// or https://"
-msgid "Please enter your Sngine App Domain without http:// or https://"
+msgid "Please enter your LinkingDots App Domain without http:// or https://"
 msgstr "Le lien vers le site Web doit commencer par http:// ou https://"
 
 #: content/themes/default/templates/admin.settings.tpl:2628
 #, fuzzy
 #| msgid "App Name"
-msgid "Sngine App Name"
+msgid "LinkingDots App Name"
 msgstr "Nom de l’application"
 
 #: content/themes/default/templates/admin.settings.tpl:2641
 #, fuzzy
 #| msgid "Linkedin App ID"
-msgid "Sngine App Icon"
+msgid "LinkingDots App Icon"
 msgstr "LinkedIn App ID"
 
 #: content/themes/default/templates/admin.settings.tpl:2694
@@ -19688,9 +19688,9 @@ msgstr "Gestion des Pages"
 
 #: content/themes/default/templates/admin.design.tpl:72
 #, fuzzy
-#| msgid "Sngine"
+#| msgid "LinkingDots"
 msgid "Elengine"
-msgstr "Sngine"
+msgstr "LinkingDots"
 
 #: content/themes/default/templates/admin.design.tpl:76
 msgid "Note: You can get the whole Elengine theme from"
@@ -25273,7 +25273,7 @@ msgstr "Transaction terminée avec succès"
 #~ msgid "Currency"
 #~ msgstr "Monnaie"
 
-#~ msgid "Sngine uses Twemoji Amazing and you can check"
+#~ msgid "LinkingDots uses Twemoji Amazing and you can check"
 #~ msgstr "ilobuz utilise Twemoji Amazing et vous pouvez vérifier"
 
 #~ msgid "Pattern"

@@ -3,7 +3,7 @@
 /**
  * ajax -> payments -> coinbase
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * ajax -> ads -> campaign
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

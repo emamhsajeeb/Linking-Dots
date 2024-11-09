@@ -3,7 +3,7 @@
 /**
  * ajax -> data -> upload
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

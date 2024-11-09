@@ -3,7 +3,7 @@
 /**
  * ajax -> core -> contact
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * index
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * ajax -> admin -> stickers
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

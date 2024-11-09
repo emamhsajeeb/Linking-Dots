@@ -3,7 +3,7 @@
 /**
  * ajax -> forums -> reply
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

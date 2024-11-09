@@ -3,7 +3,7 @@
 /**
  * ajax -> admin -> colored posts
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

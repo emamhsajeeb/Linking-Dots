@@ -3095,16 +3095,16 @@ $_smarty_tpl->getSmarty()->getRuntime('Foreach')->restore($_smarty_tpl, 1);?>
 
             <div class="divider"></div>
 
-            <!-- Sngine -->
+            <!-- LinkingDots -->
             <div class="form-table-row">
               <div class="avatar">
                 <?php $_smarty_tpl->renderSubTemplate('file:__svg_icons.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array('icon'=>"developers",'class'=>"main-icon",'width'=>"40px",'height'=>"40px"), (int) 0, $_smarty_current_dir);
 ?>
               </div>
               <div>
-                <div class="form-label h6 mb5"><?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("Sngine");?>
+                <div class="form-label h6 mb5"><?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("LinkingDots");?>
 </div>
-                <div class="form-text d-none d-sm-block"><?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("Turn registration/login via other Sngine website On and Off");?>
+                <div class="form-text d-none d-sm-block"><?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("Turn registration/login via other LinkingDots website On and Off");?>
 </div>
               </div>
               <div class="text-end">
@@ -3117,7 +3117,7 @@ $_smarty_tpl->getSmarty()->getRuntime('Foreach')->restore($_smarty_tpl, 1);?>
 
             <div class="row form-group">
               <label class="col-md-3 form-label">
-                <?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("Sngine App ID");?>
+                <?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("LinkingDots App ID");?>
 
               </label>
               <div class="col-md-9">
@@ -3132,7 +3132,7 @@ $_smarty_tpl->getSmarty()->getRuntime('Foreach')->restore($_smarty_tpl, 1);?>
 
             <div class="row form-group">
               <label class="col-md-3 form-label">
-                <?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("Sngine App Secret");?>
+                <?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("LinkingDots App Secret");?>
 
               </label>
               <div class="col-md-9">
@@ -3147,7 +3147,7 @@ $_smarty_tpl->getSmarty()->getRuntime('Foreach')->restore($_smarty_tpl, 1);?>
 
             <div class="row form-group">
               <label class="col-md-3 form-label">
-                <?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("Sngine App Domain");?>
+                <?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("LinkingDots App Domain");?>
 
               </label>
               <div class="col-md-9">
@@ -3158,7 +3158,7 @@ $_smarty_tpl->getSmarty()->getRuntime('Foreach')->restore($_smarty_tpl, 1);?>
                   <input type="password" class="form-control" value="*********">
                 <?php }?>
                 <div class="form-text">
-                  <?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("Please enter your Sngine App Domain without http:// or https://");?>
+                  <?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("Please enter your LinkingDots App Domain without http:// or https://");?>
 
                 </div>
               </div>
@@ -3166,7 +3166,7 @@ $_smarty_tpl->getSmarty()->getRuntime('Foreach')->restore($_smarty_tpl, 1);?>
 
             <div class="row form-group">
               <label class="col-md-3 form-label">
-                <?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("Sngine App Name");?>
+                <?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("LinkingDots App Name");?>
 
               </label>
               <div class="col-md-9">
@@ -3181,7 +3181,7 @@ $_smarty_tpl->getSmarty()->getRuntime('Foreach')->restore($_smarty_tpl, 1);?>
 
             <div class="row form-group">
               <label class="col-md-3 form-label">
-                <?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("Sngine App Icon");?>
+                <?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("LinkingDots App Icon");?>
 
               </label>
               <div class="col-md-9">
@@ -3215,7 +3215,7 @@ $_smarty_tpl->getSmarty()->getRuntime('Foreach')->restore($_smarty_tpl, 1);?>
                 <?php }?>
               </div>
             </div>
-            <!-- Sngine -->
+            <!-- LinkingDots -->
 
             <!-- success -->
             <div class="alert alert-success mt15 mb0 x-hidden"></div>

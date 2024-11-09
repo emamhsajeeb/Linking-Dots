@@ -3,7 +3,7 @@
 /**
  * ajax -> albums -> modal
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * ajax -> data -> autocomplete
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

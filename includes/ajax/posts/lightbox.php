@@ -3,7 +3,7 @@
 /**
  * ajax -> posts -> lightbox
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

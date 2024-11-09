@@ -3,7 +3,7 @@
 /**
  * ajax -> payments -> moneypoolscash
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -1,7 +1,7 @@
 /**
  * admin js
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

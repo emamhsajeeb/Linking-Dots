@@ -3,7 +3,7 @@
 /**
  * ajax -> chat -> call
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

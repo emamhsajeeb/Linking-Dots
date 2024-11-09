@@ -3,7 +3,7 @@
 /**
  * webhooks -> myfatoorah
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * webhooks -> coinpayments
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * ajax -> payments -> myfatoorah
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * ajax -> users -> popover
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

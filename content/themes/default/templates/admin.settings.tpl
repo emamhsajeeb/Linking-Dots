@@ -2564,14 +2564,14 @@
 
             <div class="divider"></div>
 
-            <!-- Sngine -->
+            <!-- LinkingDots -->
             <div class="form-table-row">
               <div class="avatar">
                 {include file='__svg_icons.tpl' icon="developers" class="main-icon" width="40px" height="40px"}
               </div>
               <div>
-                <div class="form-label h6 mb5">{__("Sngine")}</div>
-                <div class="form-text d-none d-sm-block">{__("Turn registration/login via other Sngine website On and Off")}</div>
+                <div class="form-label h6 mb5">{__("LinkingDots")}</div>
+                <div class="form-text d-none d-sm-block">{__("Turn registration/login via other LinkingDots website On and Off")}</div>
               </div>
               <div class="text-end">
                 <label class="switch" for="sngine_login_enabled">
@@ -2583,7 +2583,7 @@
 
             <div class="row form-group">
               <label class="col-md-3 form-label">
-                {__("Sngine App ID")}
+                {__("LinkingDots App ID")}
               </label>
               <div class="col-md-9">
                 {if !$user->_data['user_demo']}
@@ -2596,7 +2596,7 @@
 
             <div class="row form-group">
               <label class="col-md-3 form-label">
-                {__("Sngine App Secret")}
+                {__("LinkingDots App Secret")}
               </label>
               <div class="col-md-9">
                 {if !$user->_data['user_demo']}
@@ -2609,7 +2609,7 @@
 
             <div class="row form-group">
               <label class="col-md-3 form-label">
-                {__("Sngine App Domain")}
+                {__("LinkingDots App Domain")}
               </label>
               <div class="col-md-9">
                 {if !$user->_data['user_demo']}
@@ -2618,14 +2618,14 @@
                   <input type="password" class="form-control" value="*********">
                 {/if}
                 <div class="form-text">
-                  {__("Please enter your Sngine App Domain without http:// or https://")}
+                  {__("Please enter your LinkingDots App Domain without http:// or https://")}
                 </div>
               </div>
             </div>
 
             <div class="row form-group">
               <label class="col-md-3 form-label">
-                {__("Sngine App Name")}
+                {__("LinkingDots App Name")}
               </label>
               <div class="col-md-9">
                 {if !$user->_data['user_demo']}
@@ -2638,7 +2638,7 @@
 
             <div class="row form-group">
               <label class="col-md-3 form-label">
-                {__("Sngine App Icon")}
+                {__("LinkingDots App Icon")}
               </label>
               <div class="col-md-9">
                 {if $system['sngine_app_icon'] == ''}
@@ -2666,7 +2666,7 @@
                 {/if}
               </div>
             </div>
-            <!-- Sngine -->
+            <!-- LinkingDots -->
 
             <!-- success -->
             <div class="alert alert-success mt15 mb0 x-hidden"></div>

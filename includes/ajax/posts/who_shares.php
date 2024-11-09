@@ -3,7 +3,7 @@
 /**
  * ajax -> posts -> who shares
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

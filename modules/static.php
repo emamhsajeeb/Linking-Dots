@@ -3,7 +3,7 @@
 /**
  * modules -> static
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

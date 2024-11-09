@@ -3,7 +3,7 @@
 /**
  * ajax -> admin -> gifts
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

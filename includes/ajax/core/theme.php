@@ -3,7 +3,7 @@
 /**
  * ajax -> core -> theme
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

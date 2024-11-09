@@ -3,7 +3,7 @@
 /**
  * ajax -> admin -> blacklist
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

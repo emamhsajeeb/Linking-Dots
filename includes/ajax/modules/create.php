@@ -3,7 +3,7 @@
 /**
  * ajax -> modules -> create|edit
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

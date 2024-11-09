@@ -3,7 +3,7 @@
 /**
  * ajax -> core -> activation email reset
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

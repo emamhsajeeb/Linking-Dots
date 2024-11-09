@@ -3,7 +3,7 @@
 /**
  * modules -> sign (in|up|out|reset)
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

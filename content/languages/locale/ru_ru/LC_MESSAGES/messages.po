@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Sngine\n"
+"Project-Id-Version: LinkingDots\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-25 19:58+0300\n"
 "PO-Revision-Date: 2024-09-25 20:14+0300\n"
@@ -749,7 +749,7 @@ msgid "My Events"
 msgstr "Мои события"
 
 #: bootstrap.php:85
-msgid "Your session hash has been broken, Please contact Sngine's support!"
+msgid "Your session hash has been broken, Please contact LinkingDots's support!"
 msgstr "Ваша сессии прервана, пожалуйста, обратитесь в службу поддержки!"
 
 #: bootstrap.php:108 bootstrap.php:113 bootstrap.php:118 admin.php:21
@@ -12779,49 +12779,49 @@ msgid "WordPress App Secret"
 msgstr "Google App Secret"
 
 #: content/themes/default/templates/admin.settings.tpl:2573
-msgid "Sngine"
-msgstr "Sngine"
+msgid "LinkingDots"
+msgstr "LinkingDots"
 
 #: content/themes/default/templates/admin.settings.tpl:2574
 #, fuzzy
 #| msgid "Turn registration/login via Twitter On and Off"
-msgid "Turn registration/login via other Sngine website On and Off"
+msgid "Turn registration/login via other LinkingDots website On and Off"
 msgstr "Вкл/выкл регистрации/входа через Twitter"
 
 #: content/themes/default/templates/admin.settings.tpl:2586
 #, fuzzy
 #| msgid "Linkedin App ID"
-msgid "Sngine App ID"
+msgid "LinkingDots App ID"
 msgstr "LinkedIn App ID"
 
 #: content/themes/default/templates/admin.settings.tpl:2599
 #, fuzzy
 #| msgid "Linkedin App Secret"
-msgid "Sngine App Secret"
+msgid "LinkingDots App Secret"
 msgstr "Linkedin App Secret"
 
 #: content/themes/default/templates/admin.settings.tpl:2612
 #, fuzzy
 #| msgid "App Domain"
-msgid "Sngine App Domain"
+msgid "LinkingDots App Domain"
 msgstr "Домен приложения"
 
 #: content/themes/default/templates/admin.settings.tpl:2621
 #, fuzzy
 #| msgid "Website link must start with http:// or https://"
-msgid "Please enter your Sngine App Domain without http:// or https://"
+msgid "Please enter your LinkingDots App Domain without http:// or https://"
 msgstr "Ссылка на сайт должна начинаться с http: // или https: //"
 
 #: content/themes/default/templates/admin.settings.tpl:2628
 #, fuzzy
 #| msgid "App Name"
-msgid "Sngine App Name"
+msgid "LinkingDots App Name"
 msgstr "Название приложения"
 
 #: content/themes/default/templates/admin.settings.tpl:2641
 #, fuzzy
 #| msgid "Linkedin App ID"
-msgid "Sngine App Icon"
+msgid "LinkingDots App Icon"
 msgstr "LinkedIn App ID"
 
 #: content/themes/default/templates/admin.settings.tpl:2694
@@ -19860,9 +19860,9 @@ msgstr "Страницы"
 
 #: content/themes/default/templates/admin.design.tpl:72
 #, fuzzy
-#| msgid "Sngine"
+#| msgid "LinkingDots"
 msgid "Elengine"
-msgstr "Sngine"
+msgstr "LinkingDots"
 
 #: content/themes/default/templates/admin.design.tpl:76
 msgid "Note: You can get the whole Elengine theme from"
@@ -25429,9 +25429,9 @@ msgstr ""
 #~ msgstr "Валюты"
 
 #, fuzzy
-#~| msgid "Sngine uses Twemoji Awesome and you can check"
-#~ msgid "Sngine uses Twemoji Amazing and you can check"
-#~ msgstr "Sngine использует Twemoji Awesome, и вы можете проверить"
+#~| msgid "LinkingDots uses Twemoji Awesome and you can check"
+#~ msgid "LinkingDots uses Twemoji Amazing and you can check"
+#~ msgstr "LinkingDots использует Twemoji Awesome, и вы можете проверить"
 
 #~ msgid "Pattern"
 #~ msgstr "Шаблон"

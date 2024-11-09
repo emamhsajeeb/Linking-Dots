@@ -3,7 +3,7 @@
 /**
  * ajax -> payments -> bank
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

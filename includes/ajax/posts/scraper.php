@@ -3,7 +3,7 @@
 /**
  * ajax -> posts -> scraper
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

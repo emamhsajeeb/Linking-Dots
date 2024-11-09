@@ -3,7 +3,7 @@
 /**
  * ajax -> core -> activation phone reset
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

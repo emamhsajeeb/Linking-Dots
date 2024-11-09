@@ -3,7 +3,7 @@
 /**
  * ajax -> users -> mutual friends
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

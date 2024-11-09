@@ -3,7 +3,7 @@
 /**
  * ajax -> admin -> verify
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

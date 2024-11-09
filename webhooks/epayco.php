@@ -3,7 +3,7 @@
 /**
  * webhooks -> epayco
  *
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * ajax -> users -> push notifications
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

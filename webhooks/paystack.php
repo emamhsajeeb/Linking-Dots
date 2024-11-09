@@ -3,7 +3,7 @@
 /**
  * webhooks -> paystack
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * friend_requests
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -2,8 +2,8 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine PHP Dependencies
-- [Updated] Sngine JS Dependencies
+- [Updated] LinkingDots PHP Dependencies
+- [Updated] LinkingDots JS Dependencies
 
 - [Added] Reels Module
 - [Added] Disable Friends System
@@ -111,8 +111,8 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine PHP Dependencies
-- [Updated] Sngine JS Dependencies
+- [Updated] LinkingDots PHP Dependencies
+- [Updated] LinkingDots JS Dependencies
 
 - [Added] Selling Digital Products
 - [Added] Groups Reviews
@@ -180,8 +180,8 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine PHP Dependencies
-- [Updated] Sngine JS Dependencies
+- [Updated] LinkingDots PHP Dependencies
+- [Updated] LinkingDots JS Dependencies
 
 - [Added] PayPal Recurring Payments
 - [Added] Stripe Recurring Payments
@@ -237,13 +237,13 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine PHP Dependencies
-- [Updated] Sngine JS Dependencies
+- [Updated] LinkingDots PHP Dependencies
+- [Updated] LinkingDots JS Dependencies
 
 - [Added] Market Purchase Module
 - [Added] Tips To Blogs
 - [Added] Admin ability to turn Switch Accounts On/Off [Admin Panel]
-- [Added] Sngine Login as Social Login
+- [Added] LinkingDots Login as Social Login
 - [Added] Enable/Disable Reactions [Admin Panel]
 - [Added] SMS Limit/Hour
 - [Added] Wallet Transfer Maximum [Admin Panel]
@@ -307,8 +307,8 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine PHP Dependencies
-- [Updated] Sngine JS Dependencies
+- [Updated] LinkingDots PHP Dependencies
+- [Updated] LinkingDots JS Dependencies
 
 - [Added] Migrate to Bootstrap v5+
 - [Added] New Default Theme
@@ -349,8 +349,8 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine PHP Dependencies
-- [Updated] Sngine JS Dependencies
+- [Updated] LinkingDots PHP Dependencies
+- [Updated] LinkingDots JS Dependencies
 
 - [Added] New Landing Page Design
 - [Added] Watch Module
@@ -395,8 +395,8 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine PHP Dependencies
-- [Updated] Sngine JS Dependencies
+- [Updated] LinkingDots PHP Dependencies
+- [Updated] LinkingDots JS Dependencies
 
 - [Added] Content Monetization for [Profiles|Pages|Groups]
 - [Added] Manage Reactions [Admin Panel]
@@ -441,7 +441,7 @@
 - [Fixed] Minor Bugs
 
 #== v3.6.2 == ( 20-09-2022 )
-- [Updated] Sngine Default Theme Colors
+- [Updated] LinkingDots Default Theme Colors
 - [Added] New Post Reactions Images
 - [Fixed] Minor Bugs
 
@@ -458,10 +458,10 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine PHP Dependencies
-- [Updated] Sngine JS Dependencies
+- [Updated] LinkingDots PHP Dependencies
+- [Updated] LinkingDots JS Dependencies
 
-- [Added] Move Sngine JS Dependencies to NPM
+- [Added] Move LinkingDots JS Dependencies to NPM
 - [Added] FFMPEG Support
 - [Added] Admin ability to turn FFMPEG On/Off [Admin Panel]
 - [Added] All Comments Sorting in Comments
@@ -508,8 +508,8 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs
-- [Updated] Sngine JS Dependencies
+- [Updated] LinkingDots Libs
+- [Updated] LinkingDots JS Dependencies
 
 - [Added] Move libs to Composer
 - [Added] Razorpay Payment Method
@@ -555,8 +555,8 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|HTMLPurifier|PHPMailer|SimpleImage|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [tagify]
+- [Updated] LinkingDots Libs [AWS|HTMLPurifier|PHPMailer|SimpleImage|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [tagify]
 
 - [Added] Wasabi Cloud Storage
 - [Added] Free Trial Pro Packages
@@ -619,8 +619,8 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|GettextTranslator|PHPMailer|Smarty|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [easytimer|tagify|tinymce]
+- [Updated] LinkingDots Libs [AWS|GettextTranslator|PHPMailer|Smarty|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [easytimer|tagify|tinymce]
 
 - [Added] View X New Posts in Newsfeed
 - [Added] Multi-Level Affiliates System
@@ -671,9 +671,9 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [Agora|AWS|Embed|FtpClient|GettextTranslator|GoogleAuthenticator|PHPMailer|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [jQuery|Agora|autosize|bootstrap.colorpicker|codemirror|easytimer|tagify|tinymce]
-- [Updated] Sngine CSS Dependencies [Font-Awesome]
+- [Updated] LinkingDots Libs [Agora|AWS|Embed|FtpClient|GettextTranslator|GoogleAuthenticator|PHPMailer|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [jQuery|Agora|autosize|bootstrap.colorpicker|codemirror|easytimer|tagify|tinymce]
+- [Updated] LinkingDots CSS Dependencies [Font-Awesome]
 
 - [Added] UI Enhancements
 - [Added] Invitations System
@@ -722,9 +722,9 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|Embed|GettextTranslator|HybridAuth|MobileDetect|PHPMailer|SimpleImage|Smarty|Spaces|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [autosize|bootstrap.colorpicker|codemirror|easytimer|mustache|tagify|tinymce]
-- [Updated] Sngine CSS Dependencies [Font-Awesome]
+- [Updated] LinkingDots Libs [AWS|Embed|GettextTranslator|HybridAuth|MobileDetect|PHPMailer|SimpleImage|Smarty|Spaces|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [autosize|bootstrap.colorpicker|codemirror|easytimer|mustache|tagify|tinymce]
+- [Updated] LinkingDots CSS Dependencies [Font-Awesome]
 
 - [Added] Add Button in Header
 - [Added] Funding System
@@ -761,9 +761,9 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|Embed|Faker|FTP|HybridAuth|MobileDetect|PHPMailer|SimpleImage|Smarty|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [bootstrap.datetimepicker|codemirror|easytimer|moment|mustache|tinymce]
-- [Updated] Sngine CSS Dependencies [Bootstrap|Font-Awesome]
+- [Updated] LinkingDots Libs [AWS|Embed|Faker|FTP|HybridAuth|MobileDetect|PHPMailer|SimpleImage|Smarty|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [bootstrap.datetimepicker|codemirror|easytimer|moment|mustache|tinymce]
+- [Updated] LinkingDots CSS Dependencies [Bootstrap|Font-Awesome]
 
 - [Added] Changed DB from MYISAM to INNODB
 - [Added] Background Thread for time-consuming tasks like send newsletter, garbage collector ...etc
@@ -806,9 +806,9 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|Embed|HTMLPurifier|HybridAuth|PHPMailer|Smarty|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [bootstrap.select|codemirror|dataTables|easytimer|fluidplayer|moment|tinymce]
-- [Updated] Sngine CSS Dependencies [Bootstrap|Font-Awesome]
+- [Updated] LinkingDots Libs [AWS|Embed|HTMLPurifier|HybridAuth|PHPMailer|Smarty|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [bootstrap.select|codemirror|dataTables|easytimer|fluidplayer|moment|tinymce]
+- [Updated] LinkingDots CSS Dependencies [Bootstrap|Font-Awesome]
 
 - [Added] New Install/Update Wizard
 - [Added] Live Stream Module
@@ -834,9 +834,9 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|Embed|FTP|HybridAuth|PHPMailer|ReCaptcha|Smarty|Stripe|Twilio|2Checkout]
-- [Updated] Sngine JS Dependencies [jQuery|bootstrap.select|codemirror|easytimer|jquery.form|moment|mustache|tinymce]
-- [Updated] Sngine CSS Dependencies [Bootstrap|Font-Awesome]
+- [Updated] LinkingDots Libs [AWS|Embed|FTP|HybridAuth|PHPMailer|ReCaptcha|Smarty|Stripe|Twilio|2Checkout]
+- [Updated] LinkingDots JS Dependencies [jQuery|bootstrap.select|codemirror|easytimer|jquery.form|moment|mustache|tinymce]
+- [Updated] LinkingDots CSS Dependencies [Bootstrap|Font-Awesome]
 
 - [Added] Enhance the Design
 - [Added] Convert All PNG Icons to SVG
@@ -900,9 +900,9 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|Faker|HybridAuth|PHPMailer|Smarty|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [bootstrap.colorpicker|codemirror|easytimer|mustache|tinymce]
-- [Updated] Sngine CSS Dependencies [Bootstrap|Font-Awesome]
+- [Updated] LinkingDots Libs [AWS|Faker|HybridAuth|PHPMailer|Smarty|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [bootstrap.colorpicker|codemirror|easytimer|mustache|tinymce]
+- [Updated] LinkingDots CSS Dependencies [Bootstrap|Font-Awesome]
 
 - [Added] Adult Images Detection System
 - [Added] Banned Usernames
@@ -937,9 +937,9 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|Embed|Faker|PHPMailer|reCAPTCHA|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [bootstrap.select|codemirror|datatables|easytimer|mustache|tinymce]
-- [Updated] Sngine CSS Dependencies [Font-Awesome]
+- [Updated] LinkingDots Libs [AWS|Embed|Faker|PHPMailer|reCAPTCHA|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [bootstrap.select|codemirror|datatables|easytimer|mustache|tinymce]
+- [Updated] LinkingDots CSS Dependencies [Font-Awesome]
 
 - [Added] Support for MySQL v8+
 - [Added] Unusual Login Detection
@@ -1008,9 +1008,9 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|Embed|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [codemirror|mustache|tinymce]
-- [Updated] Sngine CSS Dependencies [Font-Awesome]
+- [Updated] LinkingDots Libs [AWS|Embed|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [codemirror|mustache|tinymce]
+- [Updated] LinkingDots CSS Dependencies [Font-Awesome]
 
 - [Added] Video Calls
 - [Added] Admin ability to turn Video Calls On/Off [Admin Panel]
@@ -1059,16 +1059,16 @@
 - [Fixed] Change/Remove the default theme without mark other theme as default
 - [Fixed] Minor Bugs
 
-- [Removed] Intl PHP extension as requirement for Sngine
+- [Removed] Intl PHP extension as requirement for LinkingDots
 
 #== v2.5.10 == ( 21-06-2019 )
 - [Updated] Android App
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|HybridAuth v3|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [jQuery|bootstrap.colorpicker|bootstrap.select|codemirror|tinymce]
-- [Updated] Sngine CSS Dependencies [Font-Awesome]
+- [Updated] LinkingDots Libs [AWS|HybridAuth v3|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [jQuery|bootstrap.colorpicker|bootstrap.select|codemirror|tinymce]
+- [Updated] LinkingDots CSS Dependencies [Font-Awesome]
 
 - [Added] Post Reactions (like, love, haha ...etc)
 - [Added] Reactions and Share Options to Blog
@@ -1137,11 +1137,11 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|Embed|HybridAuth|PayPal|PHPMailer|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [bootstrap|mustache|jquery-ui|datatables|bootstrap.colorpicker|bootstrap.datetimepicker|bootstrap.select|codemirror|moment|tinymce]
-- [Updated] Sngine CSS Dependencies [Font-Awesome]
+- [Updated] LinkingDots Libs [AWS|Embed|HybridAuth|PayPal|PHPMailer|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [bootstrap|mustache|jquery-ui|datatables|bootstrap.colorpicker|bootstrap.datetimepicker|bootstrap.select|codemirror|moment|tinymce]
+- [Updated] LinkingDots CSS Dependencies [Font-Awesome]
 
-- [Added] Sngine Default Theme v2.0 with Bootsrap 4+
+- [Added] LinkingDots Default Theme v2.0 with Bootsrap 4+
 - [Added] Night Mode On/Off
 - [Added] Chat Message Sound On/Off ability
 - [Added] Update @Mention functionality
@@ -1167,9 +1167,9 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|Embed|HybridAuth|PHPMailer|ReCaptcha|Smarty|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [mustache|bootstrap.select|codemirror|metismenu|moment|readmore|tinymce]
-- [Updated] Sngine CSS Dependencies [Font-Awesome]
+- [Updated] LinkingDots Libs [AWS|Embed|HybridAuth|PHPMailer|ReCaptcha|Smarty|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [mustache|bootstrap.select|codemirror|metismenu|moment|readmore|tinymce]
+- [Updated] LinkingDots CSS Dependencies [Font-Awesome]
 
 - [Added] Delete Uploaded (Photos, Video, Audio, File) after deleting posts
 - [Added] Fake User Generator
@@ -1234,9 +1234,9 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|Embed|HybridAuth|Smarty|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [autosize|bootstrap.colorpicker|codemirror|datatables|mediaelement|metismenu|moment|tinymce]
-- [Updated] Sngine CSS Dependencies [Font-Awesome]
+- [Updated] LinkingDots Libs [AWS|Embed|HybridAuth|Smarty|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [autosize|bootstrap.colorpicker|codemirror|datatables|mediaelement|metismenu|moment|tinymce]
+- [Updated] LinkingDots CSS Dependencies [Font-Awesome]
 
 - [Added] Secured Cookies [GDPR]
 - [Added] Cookies Consent Notification [GDPR]
@@ -1286,9 +1286,9 @@
 - [Updated] Documentation
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|Embed|HybridAuth|PayPal|PHPMailer|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [jQuery|dataTables|mediaelement|metisMenu|moment|noty|tinymce]
-- [Updated] Sngine CSS Dependencies [Font-Awesome|Flag-Icon]
+- [Updated] LinkingDots Libs [AWS|Embed|HybridAuth|PayPal|PHPMailer|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [jQuery|dataTables|mediaelement|metisMenu|moment|noty|tinymce]
+- [Updated] LinkingDots CSS Dependencies [Font-Awesome|Flag-Icon]
 
 - [Added] Advanced ADS system for users
 - [Added] User Wallet System
@@ -1336,8 +1336,8 @@
 #== v2.5.2 == ( 01-03-2018 )
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [Twilio]
-- [Updated] Sngine CSS Dependencies [Font-Awesome(v5)]
+- [Updated] LinkingDots Libs [Twilio]
+- [Updated] LinkingDots CSS Dependencies [Font-Awesome(v5)]
 
 - [Added] Forums
 - [Added] Mass Notifications from Admin Panel
@@ -1369,11 +1369,11 @@
 #== v2.5 == ( 9-11-2017 )
 - [Updated] System Security
 - [Updated] System Optimization
-- [Updated] Sngine Libs [AWS|Embed|HybridAuth|PayPal|PHPMailer|ReCaptcha|Smarty|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [jQuery|jquery.form|jquery.inview|jquery.geocomplete|autosize|moment|mediaelementplayer|bootstrap.select|bootstrap.datetimepicker|bootstrap.colorpicker|metisMenu|dataTables]
+- [Updated] LinkingDots Libs [AWS|Embed|HybridAuth|PayPal|PHPMailer|ReCaptcha|Smarty|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [jQuery|jquery.form|jquery.inview|jquery.geocomplete|autosize|moment|mediaelementplayer|bootstrap.select|bootstrap.datetimepicker|bootstrap.colorpicker|metisMenu|dataTables]
 - [Updated] Installer Wizard & Pre-Installation Check
-- [Updated] Sngine GTmetrix Optimization
-- [Updated] Sngine Google PageSpeed Optimization
+- [Updated] LinkingDots GTmetrix Optimization
+- [Updated] LinkingDots Google PageSpeed Optimization
 
 - [Added] Romanian Language
 - [Added] Events
@@ -1440,7 +1440,7 @@
 
 #== v2.4.2 == ( 21-03-2017 )
 - [Updated] System optimization
-- [Updated] Sngine JS Dependencies [mediaelementplayer]
+- [Updated] LinkingDots JS Dependencies [mediaelementplayer]
 - [Added] Stripe Receipt Email
 - [Fixed] Page Verification Request
 - [Fixed] Minor CSS bugs
@@ -1458,9 +1458,9 @@
 #== v2.4 == ( 06-03-2017 )
 - [Updated] System Security
 - [Updated] System optimization
-- [Updated] Sngine Libs [AWS|Embed|HybridAuth|PayPal|PHPMailer|reCAPTCHA|Smarty|Stripe|Twilio]
-- [Updated] Sngine JS Dependencies [jQuery|Bootstrap|Mustache|html5shiv|slimscroll|autosize|readmore|moment|datetimepicker|DataTables]
-- [Updated] Sngine CSS Dependencies [Font-Awesome|Twemoji-Awesome|Flag-Icon]
+- [Updated] LinkingDots Libs [AWS|Embed|HybridAuth|PayPal|PHPMailer|reCAPTCHA|Smarty|Stripe|Twilio]
+- [Updated] LinkingDots JS Dependencies [jQuery|Bootstrap|Mustache|html5shiv|slimscroll|autosize|readmore|moment|datetimepicker|DataTables]
+- [Updated] LinkingDots CSS Dependencies [Font-Awesome|Twemoji-Awesome|Flag-Icon]
 - [Updated] Installer Wizard & Pre-Installation Check
 
 - [Added] New Mobile UI Enhancement
@@ -1542,10 +1542,10 @@
 - [Fixed] Minor bugs
 
 #== v2.3.1 == ( 22-01-2017 ) [Script security update]
-- [Updated] Sngine Libs [PHPMailer]
+- [Updated] LinkingDots Libs [PHPMailer]
 
 #== v2.3 == ( 03-09-2016 )
-- [Updated] Sngine Dependencies [Bootstrap|Font-Awesome|Flag-Icon|Twemoji-Awesome]
+- [Updated] LinkingDots Dependencies [Bootstrap|Font-Awesome|Flag-Icon|Twemoji-Awesome]
 - [Updated] Cache system to speed up your website (97/100 on Google PageSpeed)
 - [Updated] System Security
 - [Updated] Improve Search to include wall posts and group posts
@@ -1595,7 +1595,7 @@
 
 
 #== v2.2.3 == ( 26-07-2016 )
-- [Updated] Sngine Dependencies [Smarty|HybridAuth|Google reCAPTCHA]
+- [Updated] LinkingDots Dependencies [Smarty|HybridAuth|Google reCAPTCHA]
 
 
 #== v2.2.2 == ( 23-07-2016 )
@@ -1636,7 +1636,7 @@
 - [Added] [Admin] Offline after | The amount of time to be considered online since the last user's activity (in seconds)
 - [Added] [Admin] Custom Design
 - [Added] [Admin] Build Version in admin panel main menu
-- [Added] Update all Sngine Dependencies to latest version
+- [Added] Update all LinkingDots Dependencies to latest version
 - [Added] Uploads folder now arranged with years/months and file types like WordPress
 - [Added] Getting started page
 - [Added] User now can upload and share audio file
@@ -1655,8 +1655,8 @@
 
 
 #== v2.1 == ( 16-02-2016 )
-- [Added] Sngine 2.1 Structure for better caching and performance
-- [Added] Sngine APIs v1.0
+- [Added] LinkingDots 2.1 Structure for better caching and performance
+- [Added] LinkingDots APIs v1.0
 - [Added] Transfer Awesome features from Material theme to default theme
 - [Added] New Social Logins [Linkedin & Vkontakte]
 - [Added] New Link Scraper

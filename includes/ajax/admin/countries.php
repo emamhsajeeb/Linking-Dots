@@ -3,7 +3,7 @@
 /**
  * ajax -> admin -> countries
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

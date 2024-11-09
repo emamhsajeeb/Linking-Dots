@@ -3,7 +3,7 @@
 /**
  * functions
  *
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 
@@ -907,7 +907,7 @@ function _error()
                                 <li>" . "Are you sure that you have typed the correct hostname?" . "</li>
                                 <li>" . "Are you sure that the database server is running?" . "</li>
                             </ul>
-                            <p>" . "If you're unsure what these terms mean you should probably contact your host. If you still need help you can always visit the" . " <a href='https://www.zamblek.com/support'>" . "Sngine Support" . ".</a></p>
+                            <p>" . "If you're unsure what these terms mean you should probably contact your host. If you still need help you can always visit the" . " <a href='https://www.zamblek.com/support'>" . "LinkingDots Support" . ".</a></p>
                             </div>";
         break;
 
@@ -5905,7 +5905,7 @@ function moneypoolscash_wallet_token()
   global $system;
   $headers = [
     'Content-Type: application/json',
-    'User-Agent: Sngine',
+    'User-Agent: LinkingDots',
     'API-KEY: ' . $system['moneypoolscash_api_key'],
   ];
   $request_body = [

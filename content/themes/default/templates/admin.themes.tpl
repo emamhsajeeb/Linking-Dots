@@ -81,7 +81,7 @@
               <img src="{$system['system_url']}/content/themes/{$system['theme']}/images/elengine.png">
             </a>
             <div class="ml15">
-              <h5><a href="https://bit.ly/SngineElengineTheme" target="_blank">Elengine - The Ultimate Sngine Theme</a></h5>
+              <h5><a href="https://bit.ly/SngineElengineTheme" target="_blank">Elengine - The Ultimate LinkingDots Theme</a></h5>
               <ul>
                 <li>{__("Elegant and Modern Design")}</li>
                 <li>{__("Regular and Free Updates")}</li>

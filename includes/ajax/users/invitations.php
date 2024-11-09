@@ -3,7 +3,7 @@
 /**
  * ajax -> user -> invitations
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

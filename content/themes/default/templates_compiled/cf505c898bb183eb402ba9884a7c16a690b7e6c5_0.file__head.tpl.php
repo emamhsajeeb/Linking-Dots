@@ -32,7 +32,7 @@ $_smarty_current_dir = '/home/dhakabypass/linkingdots.dev/content/themes/default
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="generator" content="Sngine">
+    <meta name="generator" content="LinkingDots">
     <meta name="version" content="<?php echo $_smarty_tpl->getValue('system')['system_version'];?>
 ">
 

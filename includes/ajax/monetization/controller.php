@@ -3,7 +3,7 @@
 /**
  * ajax -> monetization -> controller
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

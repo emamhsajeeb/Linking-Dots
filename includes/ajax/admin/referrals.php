@@ -3,7 +3,7 @@
 /**
  * ajax -> admin -> referrals
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * ajax -> payments -> verotel
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

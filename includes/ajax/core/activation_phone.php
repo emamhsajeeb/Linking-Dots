@@ -3,7 +3,7 @@
 /**
  * ajax -> core -> activation phone confirm
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * ajax -> data -> search
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

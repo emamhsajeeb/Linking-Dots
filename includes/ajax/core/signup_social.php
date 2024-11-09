@@ -3,7 +3,7 @@
 /**
  * ajax -> core -> social signup
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

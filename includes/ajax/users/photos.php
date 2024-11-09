@@ -3,7 +3,7 @@
 /**
  * ajax -> users -> photos
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

@@ -3,7 +3,7 @@
 /**
  * ajax -> admin -> newsletter
  * 
- * @package Sngine
+ * @package LinkingDots
  * @author Zamblek
  */
 

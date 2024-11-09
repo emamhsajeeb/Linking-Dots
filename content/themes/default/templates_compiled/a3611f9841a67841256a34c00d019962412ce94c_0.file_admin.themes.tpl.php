@@ -144,7 +144,7 @@ $_smarty_tpl->getSmarty()->getRuntime('Foreach')->restore($_smarty_tpl, 1);?>
 /images/elengine.png">
             </a>
             <div class="ml15">
-              <h5><a href="https://bit.ly/SngineElengineTheme" target="_blank">Elengine - The Ultimate Sngine Theme</a></h5>
+              <h5><a href="https://bit.ly/SngineElengineTheme" target="_blank">Elengine - The Ultimate LinkingDots Theme</a></h5>
               <ul>
                 <li><?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("Elegant and Modern Design");?>
 </li>

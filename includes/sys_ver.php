@@ -1,7 +1,7 @@
 <?php
 
 // set system name
-define('SYS_NAME', 'Sngine');
+define('SYS_NAME', 'LinkingDots');
 
 // set system version
 define('SYS_VER', '3.13');

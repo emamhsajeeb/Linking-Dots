@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Sngine\n"
+"Project-Id-Version: LinkingDots\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-25 19:58+0300\n"
 "PO-Revision-Date: 2024-09-25 20:12+0300\n"
@@ -745,7 +745,7 @@ msgid "My Events"
 msgstr ""
 
 #: bootstrap.php:85
-msgid "Your session hash has been broken, Please contact Sngine's support!"
+msgid "Your session hash has been broken, Please contact LinkingDots's support!"
 msgstr ""
 
 #: bootstrap.php:108 bootstrap.php:113 bootstrap.php:118 admin.php:21
@@ -12343,43 +12343,43 @@ msgid "WordPress App Secret"
 msgstr "Vkontakte App Secret"
 
 #: content/themes/default/templates/admin.settings.tpl:2573
-msgid "Sngine"
+msgid "LinkingDots"
 msgstr ""
 
 #: content/themes/default/templates/admin.settings.tpl:2574
 #, fuzzy
 #| msgid "Turn registration/login via Twitter On and Off"
-msgid "Turn registration/login via other Sngine website On and Off"
+msgid "Turn registration/login via other LinkingDots website On and Off"
 msgstr "A su vez registro/login vía Twitter en y fuera"
 
 #: content/themes/default/templates/admin.settings.tpl:2586
 #, fuzzy
 #| msgid "Linkedin App ID"
-msgid "Sngine App ID"
+msgid "LinkingDots App ID"
 msgstr "ID de la aplicación de LinkedIn"
 
 #: content/themes/default/templates/admin.settings.tpl:2599
 #, fuzzy
 #| msgid "Linkedin App Secret"
-msgid "Sngine App Secret"
+msgid "LinkingDots App Secret"
 msgstr "LinkedIn App Secret:"
 
 #: content/themes/default/templates/admin.settings.tpl:2612
-msgid "Sngine App Domain"
+msgid "LinkingDots App Domain"
 msgstr ""
 
 #: content/themes/default/templates/admin.settings.tpl:2621
-msgid "Please enter your Sngine App Domain without http:// or https://"
+msgid "Please enter your LinkingDots App Domain without http:// or https://"
 msgstr ""
 
 #: content/themes/default/templates/admin.settings.tpl:2628
-msgid "Sngine App Name"
+msgid "LinkingDots App Name"
 msgstr ""
 
 #: content/themes/default/templates/admin.settings.tpl:2641
 #, fuzzy
 #| msgid "Linkedin App ID"
-msgid "Sngine App Icon"
+msgid "LinkingDots App Icon"
 msgstr "ID de la aplicación de LinkedIn"
 
 #: content/themes/default/templates/admin.settings.tpl:2694
