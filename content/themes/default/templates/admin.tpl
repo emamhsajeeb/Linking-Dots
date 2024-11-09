@@ -1122,14 +1122,6 @@
           <div class="card-body with-nav">
             <ul class="side-nav">
 
-              <!-- Changelog -->
-              <li {if $view == "changelog"}class="active" {/if}>
-                <a href="{$system['system_url']}/{$control_panel['url']}/changelog">
-                  <i class="fa fa-stopwatch fa-lg fa-fw mr10" style="color: #795548"></i>{__("Changelog")}
-                </a>
-              </li>
-              <!-- Changelog -->
-
               <!-- Build -->
               <li>
                 <div class="static">
